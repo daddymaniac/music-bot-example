@@ -1,3 +1,4 @@
+require("../server.js");
 require("dotenv").config();
 const { readdirSync } = require("fs");
 const { join } = require("path");
